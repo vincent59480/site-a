@@ -20,3 +20,6 @@ echo substr_replace($originalString,"chien",11);
 // methode 4
 $exp_str = explode(" ",$originalString);
 var_dump($exp_str);
+echo "<br>";
+echo "nombre de caractères :". strlen($originalString)."<br>";
+echo "le tableau \$MIT_Students possede:".count($MIT_Students)."entrées.<br>";
