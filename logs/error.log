@@ -1,0 +1,4 @@
+[Mon Feb 18 16:09:52.693225 2019] [php7:warn] [pid 7560:tid 1936] [client 127.0.0.1:52045] PHP Warning:  preg_replace(): No ending delimiter '/' found in C:\\xampp\\htdocs\\site_a\\public\\chaine.php on line 17
+[Mon Feb 18 17:21:22.682577 2019] [php7:error] [pid 6928:tid 1960] [client 127.0.0.1:52372] script 'C:/xampp/htdocs/site_a/public/sorties.php' not found or unable to stat
+[Mon Feb 18 17:21:27.710561 2019] [php7:error] [pid 6928:tid 1952] [client 127.0.0.1:52373] script 'C:/xampp/htdocs/site_a/public/sortie.php' not found or unable to stat
+[Tue Feb 19 14:41:41.575052 2019] [php7:error] [pid 10184:tid 1956] [client 127.0.0.1:50862] script 'C:/xampp/htdocs/site_a/public/variables.php' not found or unable to stat
