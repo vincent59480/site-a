@@ -2,3 +2,922 @@
 [Mon Feb 18 17:21:22.682577 2019] [php7:error] [pid 6928:tid 1960] [client 127.0.0.1:52372] script 'C:/xampp/htdocs/site_a/public/sorties.php' not found or unable to stat
 [Mon Feb 18 17:21:27.710561 2019] [php7:error] [pid 6928:tid 1952] [client 127.0.0.1:52373] script 'C:/xampp/htdocs/site_a/public/sortie.php' not found or unable to stat
 [Tue Feb 19 14:41:41.575052 2019] [php7:error] [pid 10184:tid 1956] [client 127.0.0.1:50862] script 'C:/xampp/htdocs/site_a/public/variables.php' not found or unable to stat
+[Tue Feb 19 17:27:22.916233 2019] [php7:error] [pid 12360:tid 1960] [client 127.0.0.1:58543] script 'C:/xampp/htdocs/site_a/public/chaines.php' not found or unable to stat
+[Wed Feb 20 09:55:47.740796 2019] [php7:error] [pid 8440:tid 1968] [client 127.0.0.1:50061] script 'C:/xampp/htdocs/site_a/public/operateur.php' not found or unable to stat
+[Wed Feb 20 09:55:57.861570 2019] [php7:notice] [pid 8440:tid 1960] [client 127.0.0.1:50063] PHP Notice:  Undefined variable: a in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 7
+[Wed Feb 20 09:55:57.861570 2019] [php7:notice] [pid 8440:tid 1960] [client 127.0.0.1:50063] PHP Notice:  Undefined variable: b in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 7
+[Wed Feb 20 09:55:57.861570 2019] [php7:notice] [pid 8440:tid 1960] [client 127.0.0.1:50063] PHP Notice:  Undefined variable: a in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 9
+[Wed Feb 20 09:55:57.862569 2019] [php7:notice] [pid 8440:tid 1960] [client 127.0.0.1:50063] PHP Notice:  Undefined variable: b in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 9
+[Wed Feb 20 09:55:57.863577 2019] [php7:notice] [pid 8440:tid 1960] [client 127.0.0.1:50063] PHP Notice:  Undefined variable: a in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 14
+[Wed Feb 20 09:55:57.863577 2019] [php7:notice] [pid 8440:tid 1960] [client 127.0.0.1:50063] PHP Notice:  Undefined variable: b in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 14
+[Wed Feb 20 09:55:57.865567 2019] [php7:notice] [pid 8440:tid 1960] [client 127.0.0.1:50063] PHP Notice:  Undefined variable: a in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 16
+[Wed Feb 20 09:55:57.865567 2019] [php7:notice] [pid 8440:tid 1960] [client 127.0.0.1:50063] PHP Notice:  Undefined variable: b in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 16
+[Wed Feb 20 09:55:57.866566 2019] [php7:notice] [pid 8440:tid 1960] [client 127.0.0.1:50063] PHP Notice:  Undefined variable: ab in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 18
+[Wed Feb 20 09:55:57.866566 2019] [php7:notice] [pid 8440:tid 1960] [client 127.0.0.1:50063] PHP Notice:  Undefined variable: a in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 18
+[Wed Feb 20 09:55:57.866566 2019] [php7:notice] [pid 8440:tid 1960] [client 127.0.0.1:50063] PHP Notice:  Undefined variable: b in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 20
+[Wed Feb 20 09:55:57.867566 2019] [php7:notice] [pid 8440:tid 1960] [client 127.0.0.1:50063] PHP Notice:  Undefined variable: a in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 20
+[Wed Feb 20 09:55:57.867566 2019] [php7:notice] [pid 8440:tid 1960] [client 127.0.0.1:50063] PHP Notice:  Undefined variable: a in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 22
+[Wed Feb 20 09:55:57.868564 2019] [php7:notice] [pid 8440:tid 1960] [client 127.0.0.1:50063] PHP Notice:  Undefined variable: b in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 22
+[Wed Feb 20 09:55:57.868564 2019] [php7:notice] [pid 8440:tid 1960] [client 127.0.0.1:50063] PHP Notice:  Undefined variable: a in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 24
+[Wed Feb 20 09:55:57.868564 2019] [php7:notice] [pid 8440:tid 1960] [client 127.0.0.1:50063] PHP Notice:  Undefined variable: b in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 24
+[Wed Feb 20 09:57:57.039547 2019] [php7:notice] [pid 8440:tid 1968] [client 127.0.0.1:50068] PHP Notice:  Undefined variable: a in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 7
+[Wed Feb 20 09:57:57.039547 2019] [php7:notice] [pid 8440:tid 1968] [client 127.0.0.1:50068] PHP Notice:  Undefined variable: b in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 7
+[Wed Feb 20 09:57:57.040547 2019] [php7:notice] [pid 8440:tid 1968] [client 127.0.0.1:50068] PHP Notice:  Undefined variable: a in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 9
+[Wed Feb 20 09:57:57.040547 2019] [php7:notice] [pid 8440:tid 1968] [client 127.0.0.1:50068] PHP Notice:  Undefined variable: b in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 9
+[Wed Feb 20 09:57:57.040547 2019] [php7:notice] [pid 8440:tid 1968] [client 127.0.0.1:50068] PHP Notice:  Undefined variable: a in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 14
+[Wed Feb 20 09:57:57.041546 2019] [php7:notice] [pid 8440:tid 1968] [client 127.0.0.1:50068] PHP Notice:  Undefined variable: b in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 14
+[Wed Feb 20 09:57:57.041546 2019] [php7:notice] [pid 8440:tid 1968] [client 127.0.0.1:50068] PHP Notice:  Undefined variable: a in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 16
+[Wed Feb 20 09:57:57.042545 2019] [php7:notice] [pid 8440:tid 1968] [client 127.0.0.1:50068] PHP Notice:  Undefined variable: b in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 16
+[Wed Feb 20 09:57:57.042545 2019] [php7:notice] [pid 8440:tid 1968] [client 127.0.0.1:50068] PHP Notice:  Undefined variable: ab in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 18
+[Wed Feb 20 09:57:57.042545 2019] [php7:notice] [pid 8440:tid 1968] [client 127.0.0.1:50068] PHP Notice:  Undefined variable: a in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 18
+[Wed Feb 20 09:57:57.043547 2019] [php7:notice] [pid 8440:tid 1968] [client 127.0.0.1:50068] PHP Notice:  Undefined variable: b in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 20
+[Wed Feb 20 09:57:57.043547 2019] [php7:notice] [pid 8440:tid 1968] [client 127.0.0.1:50068] PHP Notice:  Undefined variable: a in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 20
+[Wed Feb 20 09:57:57.043547 2019] [php7:notice] [pid 8440:tid 1968] [client 127.0.0.1:50068] PHP Notice:  Undefined variable: a in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 22
+[Wed Feb 20 09:57:57.044561 2019] [php7:notice] [pid 8440:tid 1968] [client 127.0.0.1:50068] PHP Notice:  Undefined variable: b in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 22
+[Wed Feb 20 09:57:57.044561 2019] [php7:notice] [pid 8440:tid 1968] [client 127.0.0.1:50068] PHP Notice:  Undefined variable: a in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 24
+[Wed Feb 20 09:57:57.044561 2019] [php7:notice] [pid 8440:tid 1968] [client 127.0.0.1:50068] PHP Notice:  Undefined variable: b in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 24
+[Wed Feb 20 09:58:52.278600 2019] [php7:notice] [pid 8440:tid 1960] [client 127.0.0.1:50074] PHP Notice:  Undefined variable: ab in C:\\xampp\\htdocs\\site_a\\public\\operateurs.php on line 20
+[Wed Feb 20 10:19:56.563824 2019] [php7:error] [pid 8440:tid 1960] [client 127.0.0.1:50153] script 'C:/xampp/htdocs/site_a/public/tableaux.php' not found or unable to stat
+[Wed Feb 20 10:20:03.457868 2019] [php7:error] [pid 8440:tid 1968] [client 127.0.0.1:50154] script 'C:/xampp/htdocs/site_a/public/tableau.php' not found or unable to stat
+[Wed Feb 20 10:20:25.386911 2019] [php7:error] [pid 8440:tid 1960] [client 127.0.0.1:50156] script 'C:/xampp/htdocs/site_a/public/tableaux.php' not found or unable to stat
+[Wed Feb 20 10:20:51.512807 2019] [php7:error] [pid 8440:tid 1968] [client 127.0.0.1:50159] script 'C:/xampp/htdocs/site_a/public/tableaux.php' not found or unable to stat
+[Wed Feb 20 10:20:52.268074 2019] [php7:error] [pid 8440:tid 1968] [client 127.0.0.1:50159] script 'C:/xampp/htdocs/site_a/public/tableaux.php' not found or unable to stat
+[Wed Feb 20 10:20:52.459473 2019] [php7:error] [pid 8440:tid 1968] [client 127.0.0.1:50159] script 'C:/xampp/htdocs/site_a/public/tableaux.php' not found or unable to stat
+[Wed Feb 20 10:20:52.644826 2019] [php7:error] [pid 8440:tid 1968] [client 127.0.0.1:50159] script 'C:/xampp/htdocs/site_a/public/tableaux.php' not found or unable to stat
+[Wed Feb 20 10:28:30.303259 2019] [php7:error] [pid 8440:tid 1960] [client 127.0.0.1:50195] PHP Fatal error:  Uncaught TypeError: Return value of NomDeFonction() must be of the type string, none returned in C:\\xampp\\htdocs\\site_a\\public\\tableaux.php:34\nStack trace:\n#0 C:\\xampp\\htdocs\\site_a\\public\\tableaux.php(35): NomDeFonction('vincent')\n#1 {main}\n  thrown in C:\\xampp\\htdocs\\site_a\\public\\tableaux.php on line 34
+[Wed Feb 20 10:30:09.149986 2019] [php7:error] [pid 8440:tid 1968] [client 127.0.0.1:50200] PHP Fatal error:  Uncaught TypeError: Return value of NomDeFonction() must be of the type string, none returned in C:\\xampp\\htdocs\\site_a\\public\\tableaux.php:34\nStack trace:\n#0 C:\\xampp\\htdocs\\site_a\\public\\tableaux.php(35): NomDeFonction('vincent')\n#1 {main}\n  thrown in C:\\xampp\\htdocs\\site_a\\public\\tableaux.php on line 34
+[Wed Feb 20 11:13:40.045932 2019] [php7:error] [pid 6112:tid 1960] [client 127.0.0.1:50353] script 'C:/xampp/htdocs/site_a/public/php-info.php' not found or unable to stat
+[Wed Feb 20 11:13:54.071914 2019] [php7:error] [pid 6112:tid 1968] [client 127.0.0.1:50355] script 'C:/xampp/htdocs/site_a/public/phpinfo.php' not found or unable to stat
+[Wed Feb 20 14:15:00.664990 2019] [php7:notice] [pid 6648:tid 1960] [client 127.0.0.1:50024] PHP Notice:  Undefined variable: _SESSION in C:\\xampp\\htdocs\\site_a\\public\\superglobal.php on line 10
+[Wed Feb 20 14:15:00.670960 2019] [php7:notice] [pid 6648:tid 1960] [client 127.0.0.1:50024] PHP Stack trace:
+[Wed Feb 20 14:15:00.671958 2019] [php7:notice] [pid 6648:tid 1960] [client 127.0.0.1:50024] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\superglobal.php:0
+[Wed Feb 20 14:18:00.572081 2019] [php7:notice] [pid 6648:tid 1960] [client 127.0.0.1:50136] PHP Notice:  Undefined variable: _SESSION in C:\\xampp\\htdocs\\site_a\\public\\superglobal.php on line 10
+[Wed Feb 20 14:18:00.573089 2019] [php7:notice] [pid 6648:tid 1960] [client 127.0.0.1:50136] PHP Stack trace:
+[Wed Feb 20 14:18:00.574080 2019] [php7:notice] [pid 6648:tid 1960] [client 127.0.0.1:50136] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\superglobal.php:0
+[Wed Feb 20 14:20:48.682845 2019] [php7:notice] [pid 6648:tid 1968] [client 127.0.0.1:50277] PHP Notice:  Undefined variable: _SESSION in C:\\xampp\\htdocs\\site_a\\public\\superglobal.php on line 10
+[Wed Feb 20 14:20:48.682845 2019] [php7:notice] [pid 6648:tid 1968] [client 127.0.0.1:50277] PHP Stack trace:
+[Wed Feb 20 14:20:48.682845 2019] [php7:notice] [pid 6648:tid 1968] [client 127.0.0.1:50277] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\superglobal.php:0
+[Wed Feb 20 14:22:38.845125 2019] [php7:notice] [pid 6648:tid 1960] [client 127.0.0.1:50370] PHP Notice:  Undefined variable: _SESSION in C:\\xampp\\htdocs\\site_a\\public\\superglobal.php on line 10
+[Wed Feb 20 14:22:38.846127 2019] [php7:notice] [pid 6648:tid 1960] [client 127.0.0.1:50370] PHP Stack trace:
+[Wed Feb 20 14:22:38.846127 2019] [php7:notice] [pid 6648:tid 1960] [client 127.0.0.1:50370] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\superglobal.php:0
+[Wed Feb 20 14:32:10.304527 2019] [php7:notice] [pid 6648:tid 1960] [client 127.0.0.1:50877] PHP Notice:  Undefined variable: _SESSION in C:\\xampp\\htdocs\\site_a\\public\\superglobal.php on line 10
+[Wed Feb 20 14:32:10.305524 2019] [php7:notice] [pid 6648:tid 1960] [client 127.0.0.1:50877] PHP Stack trace:
+[Wed Feb 20 14:32:10.306516 2019] [php7:notice] [pid 6648:tid 1960] [client 127.0.0.1:50877] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\superglobal.php:0
+[Wed Feb 20 16:42:51.105613 2019] [php7:notice] [pid 6648:tid 1960] [client 127.0.0.1:58076] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 52
+[Wed Feb 20 16:45:03.034075 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.034075 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.034075 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.037072 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.037072 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.038068 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.041067 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.042067 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.042067 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.047063 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.047063 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.048063 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.052061 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.052061 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.053062 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.055059 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.056057 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.056057 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.061058 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.061058 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.062055 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.066052 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.067053 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.067053 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.071051 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.072052 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.072052 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.077046 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.078046 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.078046 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.083043 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.084043 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.084043 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.088041 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.089039 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.089039 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.095036 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.095036 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.095036 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.099034 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.099034 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.099034 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.104032 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.104032 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.105031 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.112029 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.112029 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.113027 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.117024 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.117024 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.118042 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.121021 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.121021 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.121021 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.127023 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.128020 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.128020 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.131034 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.132034 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.132034 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.135013 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.135013 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.136012 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.139010 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.141023 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.143015 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.146012 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.146012 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.147008 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.149005 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.150005 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.150005 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.153002 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.153002 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.154002 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.160006 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.160998 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.160998 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.163996 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.164996 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.164996 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.168998 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.168998 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.169993 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.171991 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.171991 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.172990 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.178988 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.178988 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.179986 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.182985 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.183984 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.183984 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.187985 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.187985 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.188982 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.193994 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.194980 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.194980 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.240953 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.241951 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.241951 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.245948 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.246949 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.246949 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.250946 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.251945 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.251945 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.260941 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.261941 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.261941 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.264938 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.264938 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.265938 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.267937 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.267937 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.268937 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.271936 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.272933 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.274938 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.278930 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.278930 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.279929 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.283927 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.283927 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.283927 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.286926 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.287926 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.287926 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.291938 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.292922 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.292922 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.296921 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.296921 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.296921 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:03.298919 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:03.299920 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:03.299920 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:04.021505 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:04.021505 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:04.022505 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:04.027504 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:04.027504 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:04.028503 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:04.030518 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:04.031519 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:04.031519 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:04.035516 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:04.036497 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:04.036497 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:04.041502 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:04.042500 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:04.043495 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:04.045493 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:04.045493 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:04.046493 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:04.048490 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:04.049494 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:04.049494 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:04.051489 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:04.052489 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:04.052489 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:04.054487 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:04.055488 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:04.055488 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:04.058505 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:04.058505 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:04.058505 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:04.062483 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:04.062483 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:04.062483 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:04.064481 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:04.065485 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:04.065485 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:04.068478 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:04.068478 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:04.068478 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:04.071478 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:04.071478 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:04.071478 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:45:04.074478 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Notice:  Undefined index: hallal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 54
+[Wed Feb 20 16:45:04.074478 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP Stack trace:
+[Wed Feb 20 16:45:04.075475 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58193] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:0
+[Wed Feb 20 16:47:36.217754 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58336] PHP Fatal error:  Uncaught Error: Call to undefined function utf_encode() in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php:52\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\site_a\\public\\mysqli.php on line 52
+[Wed Feb 20 16:52:38.141957 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58596] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 35
+[Wed Feb 20 16:52:38.142956 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58596] PHP Stack trace:
+[Wed Feb 20 16:52:38.143956 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58596] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:52:38.145956 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58596] PHP   2. mysqli_fetch_all() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:35
+[Wed Feb 20 16:52:38.151952 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58596] PHP Warning:  Invalid argument supplied for foreach() in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 49
+[Wed Feb 20 16:52:38.151952 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58596] PHP Stack trace:
+[Wed Feb 20 16:52:38.152950 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58596] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.173450 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.173450 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.174449 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.175447 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.175447 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.176447 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.178446 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.179444 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.179444 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.181444 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.181444 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.182441 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.185438 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.185438 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.186439 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.189439 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.189439 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.190441 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.193434 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.193434 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.194433 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.197435 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.198432 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.198432 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.202430 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.202430 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.203429 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.206432 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.207427 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.207427 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.210426 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.210426 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.211426 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.213427 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.214424 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.214424 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.217421 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.217421 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.218420 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.221418 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.221418 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.222420 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.225415 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.226416 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.226416 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.229417 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.230414 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.230414 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.233411 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.233411 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.233411 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.239418 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.240407 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.240407 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.243406 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.243406 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.244405 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.246404 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.246404 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.247403 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.249405 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.250402 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.250402 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.256398 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.257398 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.257398 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.259397 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.259397 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.260395 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.261395 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.261395 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.262394 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.264394 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.264394 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.264394 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.266396 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.266396 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.267391 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.272398 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.272398 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.273389 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.275388 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.275388 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.276406 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.278386 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.278386 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.278386 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.280385 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.280385 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.280385 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.283382 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.283382 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.283382 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.289379 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.289379 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.290381 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.292378 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.292378 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.292378 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.294377 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.294377 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.295376 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.297375 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.297375 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.298375 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.300374 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.300374 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.301372 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.306368 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.306368 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.307369 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.309367 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.309367 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.309367 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.311366 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.311366 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.311366 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.313366 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.313366 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.314365 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.316364 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.317363 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.317363 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.322371 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.323360 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.323360 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.325360 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.325360 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.326359 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.327359 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.328359 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.328359 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.329357 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.330355 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.330355 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.332356 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.333354 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.333354 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.337358 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.338359 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.339349 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.341350 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.341350 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.342348 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.343348 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.343348 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.344347 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.345347 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.346346 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.346346 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.348346 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.348346 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.349344 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.350344 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.350344 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.351343 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.356340 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.356340 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.357341 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.359340 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.359340 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.359340 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.361341 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.361341 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.362338 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.364336 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.364336 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.365339 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.367335 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.367335 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.369348 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.375330 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.375330 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.376330 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.378328 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.378328 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.379327 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.382326 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.382326 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.382326 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.385327 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.387338 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.388323 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.392322 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.392322 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.393320 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.396319 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.396319 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.397321 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.400316 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.400316 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.400316 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.405312 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.405312 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.405312 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.409311 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.410310 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.410310 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.412309 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.412309 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.412309 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.417307 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.418305 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.418305 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.421304 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.421304 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.421304 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.424323 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.424323 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.425301 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.428301 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.429301 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.430315 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.432297 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.433300 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.433300 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.439304 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:53:19.439304 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.440294 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:53:19.442292 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:53:19.442292 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP Stack trace:
+[Wed Feb 20 16:53:19.443293 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58636] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.426207 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.427207 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.427207 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.429224 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.430205 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.430205 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.433205 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.433205 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.434203 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.436201 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.437202 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.437202 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.440199 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.440199 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.441198 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.444198 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.445196 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.445196 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.447199 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.447199 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.448195 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.449194 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.450192 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.450192 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.452192 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.453192 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.453192 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.455190 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.455190 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.456189 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.459190 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.459190 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.460188 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.462185 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.463190 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.463190 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.465186 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.466186 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.466186 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.468186 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.468186 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.469182 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.470187 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.471181 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.471181 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.473179 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.474179 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.474179 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.477177 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.477177 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.477177 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.479180 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.480176 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.480176 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.483175 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.483175 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.484195 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.486175 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.486175 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.487172 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.488173 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.489171 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.489171 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.491169 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.491169 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.492169 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.494169 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.495169 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.495169 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.497166 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.498165 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.498165 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.499165 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.500167 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.500167 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.502166 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.502166 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.502166 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.504162 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.504162 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.505161 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.507160 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.507160 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.508159 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.510160 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.510160 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.511161 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.514165 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.515161 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.516154 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.517154 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.517154 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.518155 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.519153 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.520153 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.520153 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.522154 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.522154 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.522154 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.524152 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.524152 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.524152 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.528149 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.528149 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.529148 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.532145 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.532145 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.532145 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.534145 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.534145 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.534145 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.536144 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.536144 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.537143 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.538142 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.538142 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.539142 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.540141 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.541141 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.541141 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.545140 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.545140 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.546138 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.548137 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.548137 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.549136 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.551137 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.551137 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.551137 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.554133 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.554133 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.554133 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.556133 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.556133 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.557132 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.561129 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.561129 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.561129 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.564129 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.564129 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.564129 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.567128 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.567128 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.568127 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.570125 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.571125 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.571125 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.576121 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.576121 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.577121 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.579121 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.580122 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.580122 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.583118 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.583118 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.583118 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.585116 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.586116 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.586116 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.588114 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.588114 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.589114 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.591111 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.591111 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.593118 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.597109 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.597109 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.598109 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.599108 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.600106 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.600106 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.602106 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.602106 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.602106 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.604107 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.604107 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.605105 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.606105 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.606105 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.607104 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.610108 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.610108 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.612108 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.614100 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.615102 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.615102 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.617098 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.618099 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.618099 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.621095 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.621095 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.621095 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.623094 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.623094 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.624094 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.628106 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.629101 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.630090 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.632092 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.632092 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.633089 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.635089 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.636087 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.636087 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.638088 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.639087 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.639087 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.640085 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.641086 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.641086 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.645084 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.646081 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.646081 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.650079 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.650079 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.651078 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.653079 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:54:32.653079 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.653079 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:54:32.656076 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:54:32.656076 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP Stack trace:
+[Wed Feb 20 16:54:32.657075 2019] [php7:notice] [pid 6648:tid 1952] [client 127.0.0.1:58702] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.574323 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.575323 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.575323 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.580293 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.581294 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.582292 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.587290 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.588288 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.588288 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.592286 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.592286 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.593286 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.599283 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.599283 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.600282 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.607277 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.609276 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.610276 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.612274 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.613276 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.613276 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.616280 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.616280 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.617271 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.619270 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.620273 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.620273 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.623268 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.623268 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.624268 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.627268 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.627268 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.628266 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.631264 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.631264 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.632264 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.636261 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.636261 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.637261 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.640258 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.641258 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.641258 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.647254 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.647254 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.648254 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.651253 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.652252 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.652252 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.686232 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.686232 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.687232 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.706221 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.706221 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.706221 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.709220 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.709220 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.709220 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.712217 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.712217 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.712217 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.715217 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.716215 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.717246 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.720212 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.721212 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.721212 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.725210 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.725210 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.726208 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.737202 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.738202 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.738202 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.743210 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.744218 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.745200 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.748195 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.748195 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.749195 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.754193 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.754193 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.754193 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.757190 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.757190 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.757190 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.760190 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.760190 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.761189 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.763190 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.763190 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.764189 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.765186 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.766189 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.767193 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.771187 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.771187 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.771187 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.773182 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.773182 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.774188 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.776181 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.776181 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.777180 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.780180 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.781177 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.781177 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.783175 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.785191 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.785191 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.789172 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.789172 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.790175 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.791171 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.792171 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.792171 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.794169 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.794169 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.794169 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.796169 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.796169 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.796169 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.798167 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.798167 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.799166 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.802184 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.803165 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.803165 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.806170 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.807164 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.807164 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.808161 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.809161 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.809161 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.810160 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.811160 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.811160 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.813161 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.813161 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.813161 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.815157 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.815157 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.815157 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.820155 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.820155 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.821155 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.824153 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.824153 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.825151 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.827151 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.827151 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.827151 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.829152 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.829152 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.830148 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.831147 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.831147 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.832148 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.835147 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.837156 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.837156 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.840146 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.840146 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.841143 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.843143 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.844148 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.844148 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.845142 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.846140 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.846140 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.848138 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.848138 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.848138 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.851149 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.853143 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.854138 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.858135 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.858135 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.859132 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.860132 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.861134 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.861134 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.862131 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.863130 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.863130 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.864129 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.865128 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.865128 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.869127 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.870136 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.871126 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.875125 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.876125 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.876125 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.880120 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.880120 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.881119 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.882122 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.883119 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.885131 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.891115 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.892115 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.892115 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.894111 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.894111 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.895111 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.896111 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.896111 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.897110 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.898109 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.898109 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.899109 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.904115 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.905106 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.905106 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.908106 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.908106 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.909104 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.910103 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: vegan_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 53
+[Wed Feb 20 16:56:04.910103 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.911103 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Wed Feb 20 16:56:04.912102 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
+[Wed Feb 20 16:56:04.912102 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
+[Wed Feb 20 16:56:04.913102 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0

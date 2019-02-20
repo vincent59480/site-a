@@ -8,3 +8,7 @@ var_dump ($_GET);
 var_dump ($_POST);
 //SESSION
 var_dump ($_SESSION);
+
+//server
+var_dump ($_SERVER);
+?>
