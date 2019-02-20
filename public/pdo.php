@@ -22,6 +22,7 @@ try {
     $db = new PDO($db_info,$db_user,$db_pass);
 } catch (PDOException $e) {
     print "Erreur!:".$e->getMessage()."<br>";
+    echo __FILE__."a la ligne".__LINE__;
     die();
 }
 
