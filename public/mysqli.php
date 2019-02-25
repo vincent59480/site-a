@@ -58,4 +58,13 @@ $d_ingredients= mysqli_fetch_all($r_ingredients,MYSQLI_ASSOC);
 
 </table>
 
+<?php
 
+/**
+ * 5. nettoyage du resultat de la requete
+ */
+mysqli_free_result($r_ingredients);
+/**
+ * 6. Fermeture de la connection 
+ */
+mysqli_close($db);

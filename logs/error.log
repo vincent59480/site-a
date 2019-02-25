@@ -921,3 +921,46 @@
 [Wed Feb 20 16:56:04.912102 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Notice:  Undefined index: halal_compliance in C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php on line 54
 [Wed Feb 20 16:56:04.912102 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP Stack trace:
 [Wed Feb 20 16:56:04.913102 2019] [php7:notice] [pid 6648:tid 1920] [client 127.0.0.1:58781] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\mysqli2.php:0
+[Thu Feb 21 10:28:08.099814 2019] [php7:notice] [pid 4920:tid 1960] [client 127.0.0.1:50110] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on bool in C:\\xampp\\htdocs\\site_a\\public\\pdo2.php:43\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\site_a\\public\\pdo2.php on line 43
+[Thu Feb 21 10:49:41.179945 2019] [php7:notice] [pid 4920:tid 1960] [client 127.0.0.1:50188] PHP Warning:  Invalid argument supplied for foreach() in C:\\xampp\\htdocs\\site_a\\public\\pdo2.php on line 77
+[Thu Feb 21 10:49:41.182950 2019] [php7:notice] [pid 4920:tid 1960] [client 127.0.0.1:50188] PHP Stack trace:
+[Thu Feb 21 10:49:41.182950 2019] [php7:notice] [pid 4920:tid 1960] [client 127.0.0.1:50188] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\pdo2.php:0
+[Fri Feb 22 12:36:31.267233 2019] [php7:notice] [pid 11056:tid 1980] [client 127.0.0.1:51224] PHP Notice:  Undefined variable: tse_start in C:\\xampp\\htdocs\\site_a\\public\\date.php on line 3
+[Fri Feb 22 12:36:31.272986 2019] [php7:notice] [pid 11056:tid 1980] [client 127.0.0.1:51224] PHP Stack trace:
+[Fri Feb 22 12:36:31.273995 2019] [php7:notice] [pid 11056:tid 1980] [client 127.0.0.1:51224] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\date.php:0
+[Mon Feb 25 12:13:14.627416 2019] [php7:error] [pid 2556:tid 1936] [client 127.0.0.1:50803] script 'C:/xampp/htdocs/site_a/public/a.php' not found or unable to stat
+[Mon Feb 25 12:17:09.188128 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50836] PHP Notice:  Undefined index: name in C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php on line 11, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:17:09.189152 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50836] PHP Stack trace:, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:17:09.190125 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50836] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php:0, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:18:24.404662 2019] [php7:notice] [pid 2556:tid 1936] [client 127.0.0.1:50841] PHP Notice:  Undefined index: name in C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php on line 11, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:18:24.404662 2019] [php7:notice] [pid 2556:tid 1936] [client 127.0.0.1:50841] PHP Stack trace:, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:18:24.405662 2019] [php7:notice] [pid 2556:tid 1936] [client 127.0.0.1:50841] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php:0, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:21:35.938777 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50848] PHP Notice:  Undefined index: name in C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php on line 11, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:21:35.938777 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50848] PHP Stack trace:, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:21:35.939777 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50848] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php:0, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:25:12.860667 2019] [php7:notice] [pid 2556:tid 1936] [client 127.0.0.1:50868] PHP Parse error:  syntax error, unexpected '>' in C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php on line 15, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:25:32.863249 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50871] PHP Notice:  Undefined index: name in C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php on line 2, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:25:32.863249 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50871] PHP Stack trace:, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:25:32.863249 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50871] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php:0, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:26:20.768152 2019] [php7:notice] [pid 2556:tid 1936] [client 127.0.0.1:50878] PHP Notice:  Undefined index: name in C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php on line 3, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:26:20.769156 2019] [php7:notice] [pid 2556:tid 1936] [client 127.0.0.1:50878] PHP Stack trace:, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:26:20.770174 2019] [php7:notice] [pid 2556:tid 1936] [client 127.0.0.1:50878] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php:0, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:26:20.771174 2019] [php7:notice] [pid 2556:tid 1936] [client 127.0.0.1:50878] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php on line 4, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:26:20.772174 2019] [php7:notice] [pid 2556:tid 1936] [client 127.0.0.1:50878] PHP Stack trace:, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:26:20.773173 2019] [php7:notice] [pid 2556:tid 1936] [client 127.0.0.1:50878] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php:0, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:28:37.841433 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50885] PHP Notice:  Undefined variable: GET in C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php on line 3, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:28:37.841433 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50885] PHP Stack trace:, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:28:37.841433 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50885] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php:0, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:28:37.842433 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50885] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php on line 4, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:28:37.842433 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50885] PHP Stack trace:, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:28:37.842433 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50885] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php:0, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:29:18.640446 2019] [php7:notice] [pid 2556:tid 1936] [client 127.0.0.1:50892] PHP Notice:  Undefined index: name in C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php on line 3, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:29:18.641440 2019] [php7:notice] [pid 2556:tid 1936] [client 127.0.0.1:50892] PHP Stack trace:, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:29:18.642453 2019] [php7:notice] [pid 2556:tid 1936] [client 127.0.0.1:50892] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php:0, referer: http://site-a.local/sessions/c.php
+[Mon Feb 25 12:29:27.522337 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50893] PHP Notice:  Undefined index: name in C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php on line 3, referer: http://site-a.local/sessions/a.php
+[Mon Feb 25 12:29:27.523340 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50893] PHP Stack trace:, referer: http://site-a.local/sessions/a.php
+[Mon Feb 25 12:29:27.523340 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50893] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php:0, referer: http://site-a.local/sessions/a.php
+[Mon Feb 25 12:46:56.120152 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50945] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php on line 21, referer: http://site-a.local/sessions/a.php
+[Mon Feb 25 12:46:56.121149 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50945] PHP Stack trace:, referer: http://site-a.local/sessions/a.php
+[Mon Feb 25 12:46:56.121149 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:50945] PHP   1. {main}() C:\\xampp\\htdocs\\site_a\\public\\sessions\\a.php:0, referer: http://site-a.local/sessions/a.php
+[Mon Feb 25 15:56:10.369135 2019] [php7:notice] [pid 2556:tid 1968] [client 127.0.0.1:51562] PHP Fatal error:  Uncaught Error: Call to undefined function issset() in C:\\xampp\\htdocs\\site_a\\public\\index2.php:36\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\site_a\\public\\index2.php on line 36

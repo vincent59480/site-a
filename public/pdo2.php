@@ -33,13 +33,35 @@ $db->exec("set names utf8");
  * 3. La requete
  * Définition de la requete
  */
-$qstr_ingredients = "SELECT * FROM ingredients";
-//  récupération du resultat de la requete
-$q_ingredients=$db->query($qstr_ingredients);
-// var_dump($q_ingredients);
-//execution de la requete 
-$r_ingredients=$q_ingredients->fetchAll();
-// var_dump($r_ingredients);
+// on récupere l'id depuis l'url
+$id=isset($_GET["id"])? intval($_GET["id"]):null;
+// var_dump($id);
+
+// si l'$id n'est pas null, on execute la requete
+if($id!=null){
+    $qstr_ingredients = "SELECT * FROM ingredients where id=:maVarPDO";
+    //  récupération du resultat de la requete
+    // $q_ingredients=$db->query($qstr_ingredients);
+    $q_ingredients=$db->prepare($qstr_ingredients);
+    // var_dump($q_ingredients);
+    //execution de la requete 
+    // $r_ingredients=$q_ingredients->fetchAll();
+    // $q_ingredients->execute([
+    //     "maVarPDO"=>$id
+    //     ]);
+    // on caste la valeur de $id en entier
+    // var_dump(":maVarPDO");
+        $q_ingredients->bindValue(":maVarPDO",$id,PDO::PARAM_INT);
+        $q_ingredients->execute();
+    $r_ingredients=$q_ingredients->fetchAll();
+    var_dump($r_ingredients);
+
+}
+else{
+    // si $id est null, on déclare $r_ingredients vide
+    $r_ingredients=[];
+}
+
 ?>
 <!-- affiche le resultat de la requete dans un tableau -->
 <table>
